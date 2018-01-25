@@ -15,4 +15,13 @@ public class A {
 	public void setA1(int a1) {
 		A1 = a1;
 	}
+	
+	public String getA3() {
+		return A3;
+	}
+	public void setA3(String a3) {
+		A3 = a3;
+	}
+
+	private String A3;
 }
