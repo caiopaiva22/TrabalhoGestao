@@ -2,6 +2,7 @@
 public class A {
 	private int A1;
 	private float A2;
+	private String A3;
 	
 	public float getA2() {
 		return A2;
@@ -22,6 +23,8 @@ public class A {
 	public void setA3(String a3) {
 		A3 = a3;
 	}
-
-	private String A3;
+	
+	public float soma() {
+		return A1 + A2;
+	}
 }
