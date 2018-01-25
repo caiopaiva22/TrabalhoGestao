@@ -3,7 +3,6 @@ public class A {
 	private int A1;
 	private float A2;
 	private String A3;
-	
 	public float getA2() {
 		return A2;
 	}
