@@ -35,6 +35,7 @@ public class A {
 	public void setAramo4(String aramo4) {
 		Aramo4 = aramo4;
 	}
+
 	public String getAprinc4() {
 		return Aprinc4;
 	}
